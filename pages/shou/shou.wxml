@@ -38,3 +38,17 @@
 <li> <a> 面类</a></li>
 </ul>
 </view>
+<view class="you">
+<dl>
+<dt>单人特色套餐</dt>
+<dd>
+<image src="./img/p.png"></image>
+<p>皮蛋瘦肉粥配包子套餐</p>
+<span> 咸粥</span>
+<a> 月售1132份 好评率100%</a>
+</dd>
+</dl>
+
+
+
+</view>
