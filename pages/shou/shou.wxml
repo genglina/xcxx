@@ -15,3 +15,14 @@
 5个
 </view>
 </view>
+<view class="he">
+<image src="./img/bulletin@2x.png"></image>
+<span>粥品香坊其烹饪粥料的秘方源于中国千年古法，再融合现代制作工艺 </span>
+</view>
+<view class="head">
+<ul>
+<li><a>商品</a></li>
+<li><a>评价</a></li>
+<li><a>商家</a></li>
+</ul>
+</view>
