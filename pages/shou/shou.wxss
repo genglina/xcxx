@@ -104,4 +104,30 @@ display: flex;
  .head ul li a:hover{
    color: red;
  }
- 
+ .zuo{
+   width: 165rpx;
+   height: auto;
+   border: 1rpx solid;
+ }
+ .zuo ul{
+   width: 165rpx;
+
+
+ }
+ .zuo ul li{
+   width: 165rpx;
+   height: 108rpx;
+   border: 1rpx solid;
+   display: flex;
+   font-size:24rpx;
+ background-color: rgb(7, 17, 27,0.1)
+ }
+ .zuo ul li image{
+   width: 30rpx;
+   height: 30rpx;
+ }
+ .zuo ul li a:hover{
+width: 165rpx;
+height: 108rpx;
+background-color: white;
+ }

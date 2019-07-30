@@ -26,3 +26,15 @@
 <li><a>商家</a></li>
 </ul>
 </view>
+<view class="zuo">
+<ul>
+<li><a>热销榜 </a></li>
+<li> <a><image src="./img/special_2@2x.png"/> 单人特色套餐</a></li>
+<li> <a> 特色粥品</a></li>
+<li> <a> 精选热菜 </a></li>
+<li> <a>爽口凉菜 </a></li>
+<li> <a> 半成品</a></li>
+<li><a> 饭类</a></li>
+<li> <a> 面类</a></li>
+</ul>
+</view>
