@@ -1,6 +1,17 @@
 <view class="tou">
 <image src="./img/5.png"></image>
 <view class="t_1">
-<image src=""></image>
+<image src="./img/brand@2x.png"></image>
+<view>粥品香坊（大运村）</view>
+</view>
+<view class="t_2">
+<a> 蜂鸟专送/38分钟送达</a>
+</view>
+<view class="t_3">
+<image src="./img/decrease_1@2x.png"></image>
+<span>在线支付满28减5 满50减10</span>
+</view>
+<view class="t_4">
+5个
 </view>
 </view>
