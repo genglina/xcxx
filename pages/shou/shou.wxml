@@ -19,6 +19,7 @@
 <image src="./img/bulletin@2x.png"></image>
 <span>粥品香坊其烹饪粥料的秘方源于中国千年古法，再融合现代制作工艺 </span>
 </view>
+
 <view class="head">
 <ul>
 <li><a>商品</a></li>
@@ -26,6 +27,7 @@
 <li><a>商家</a></li>
 </ul>
 </view>
+
 <view class="zuo">
 <ul>
 <li><a>热销榜 </a></li>
@@ -38,6 +40,7 @@
 <li> <a> 面类</a></li>
 </ul>
 </view>
+
 <view class="you">
 <dl>
 <dt>单人特色套餐</dt>
@@ -66,7 +69,6 @@
 </dd>
 </dl>
 <dl>
-<dt></dt>
 <dd>
 <image src="./img/2.png"></image>
 <p>雪梨银耳百合粥</p>
@@ -83,8 +85,10 @@
 </dd>
 </dl>
 </view>
+
 <view class="foot">
-
-
-
+<image src="./img/c.png"></image>
+<span>￥0</span>
+<a>另需配送费￥4元</a>
+   <t>￥20元起送</t>
 </view>
