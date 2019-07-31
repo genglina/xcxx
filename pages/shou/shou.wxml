@@ -1,5 +1,5 @@
 
-<view class="float {{isRuleTrue?'isRuleShow':'isRuleHide'}}">
+ <view class="float {{isRuleTrue?'isRuleShow':'isRuleHide'}}">
   <view class='floatContent'>
    <view class="hr">
    <h1>粥品香坊（大运村）</h1>
@@ -19,15 +19,8 @@
      <view class="h_1">
      <h1> 商家公告</h1>
      <span>粥品香坊其烹饪粥料的秘方源于中国千年古法，在融和现代制作工艺，由世界大师屈浩先生领衔研发。坚守纯天然、0添加的良心品质深的消费者青睐，发展至今成为粥类引领品牌。是2008年奥运会和2013年园博会指定餐饮服务商  </span>
-
      </view>
-
-
    </view>
-
-
-
-   
     <view class='ruleHide' bindtap='hideRule'>X </view>
   </view>
 </view>
@@ -55,12 +48,12 @@
 
 <view class="head">
 <ul>
-<li><a>商品</a></li>
-<li><a>评价</a></li>
-<li><a>商家</a></li>
+<li><a  class='menu1 {{menuTapCurrent=="0"?"borders":""}}' data-current="0" catchtap="menuTap">商品</a></li>
+<li><a class='menu2 {{menuTapCurrent=="1"?"borders":""}}' data-current="1" catchtap="menuTap">评价</a></li>
+<li><a  class='menu3 {{menuTapCurrent=="2"?"borders":""}}' data-current="2" catchtap="menuTap">商家</a></li>
 </ul>
 </view>
-
+<view class="tab1" hidden="{{menuTapCurrent!='0'}}">
 <view class="zuo">
 <ul>
 <li><a>热销榜 </a></li>
@@ -72,8 +65,7 @@
 <li><a> 饭类</a></li>
 <li> <a> 面类</a></li>
 </ul>
-</view>
-
+</view> 
 <view class="you">
 <dl>
 <dt>单人特色套餐</dt>
@@ -118,10 +110,28 @@
 </dd>
 </dl>
 </view>
-
 <view class="foot">
 <image src="./img/c.png"></image>
 <span>￥0</span>
 <a>另需配送费￥4元</a>
    <t>￥20元起送</t>
+</view> 
 </view>
+<view class="tab2" hidden="{{menuTapCurrent!='1'}}">
+
+
+
+
+</view>
+ 
+
+
+
+
+
+
+
+
+
+
+
