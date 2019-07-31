@@ -1,4 +1,37 @@
-<view class="tou">
+
+<view class="float {{isRuleTrue?'isRuleShow':'isRuleHide'}}">
+  <view class='floatContent'>
+   <view class="hr">
+   <h1>粥品香坊（大运村）</h1>
+    <ul>
+     <li><image src="./img/star36_on@3x.png"></image></li>
+    <li><image src="./img/star36_on@3x.png"></image></li>
+    <li><image src="./img/star36_on@3x.png"></image></li>
+    <li><image src="./img/star36_on@3x.png"></image></li>
+    </ul>
+    <span>优惠信息</span>
+    <view class="h">
+  <p> <image src="./img/decrease_1@2x.png"></image> 在线支付满28减5，满50减10</p>
+  <p> <image src="./img/discount_1@2x.png"></image>单人精彩赛</p>
+  <p> <image src="./img/special_1@2x.png"></image>特价饮品8折抢购</p>
+  <p> <image src="./img/special_1@2x.png"></image>单人特色套餐</p>
+   </view>  
+     <view class="h_1">
+     <h1> 商家公告</h1>
+     <span>粥品香坊其烹饪粥料的秘方源于中国千年古法，在融和现代制作工艺，由世界大师屈浩先生领衔研发。坚守纯天然、0添加的良心品质深的消费者青睐，发展至今成为粥类引领品牌。是2008年奥运会和2013年园博会指定餐饮服务商  </span>
+
+     </view>
+
+
+   </view>
+
+
+
+   
+    <view class='ruleHide' bindtap='hideRule'>X </view>
+  </view>
+</view>
+<view class="tou"  >
 <image src="./img/5.png"></image>
 <view class="t_1">
 <image src="./img/brand@2x.png"></image>
@@ -15,7 +48,7 @@
 5个
 </view>
 </view>
-<view class="he">
+<view class='up' bindtap='showRule' >
 <image src="./img/bulletin@2x.png"></image>
 <span>粥品香坊其烹饪粥料的秘方源于中国千年古法，再融合现代制作工艺 </span>
 </view>
