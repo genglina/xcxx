@@ -46,9 +46,25 @@
 <p>皮蛋瘦肉粥配包子套餐</p>
 <span> 咸粥</span>
 <a> 月售1132份 好评率100%</a>
+<i>￥24<t>￥28</t><image src="./img/j.png"></image></i>
 </dd>
 </dl>
+<dl>
+<dt>特色粥品</dt>
+<dd>
+<image src="./img/l.png"></image>
+<p> 莲子核桃黑米粥</p>
+<span> 月售1132份，好评率100%</span>
+<i>￥10
+</i>
+<view id="y_1">
+<image src="./img/9.png"></image>
+<t>1</t>
+<image src="./img/j.png"></image>
+</view>
 
+</dd>
+</dl>
 
 
 </view>
