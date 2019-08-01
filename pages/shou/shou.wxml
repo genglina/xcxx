@@ -110,20 +110,62 @@
 </dd>
 </dl>
 </view>
-<view class="foot">
-<image src="./img/c.png"></image>
-<span>￥0</span>
-<a>另需配送费￥4元</a>
-   <t>￥20元起送</t>
-</view> 
+ 
 </view>
 <view class="tab2" hidden="{{menuTapCurrent!='1'}}">
+<view class="p_1">
+<view>
+<a>3.9</a>
+<p>综合评分</p>
+<span>高于周家商家69.2%</span>
+</view>
+</view>
+<view class="p_2">
+<ul>
+<li>
+<span>服务态度</span>
+<a>
+<image src="./img/star36_on@3x.png"></image> 
+<image src="./img/star36_on@3x.png"></image> 
+<image src="./img/star36_on@3x.png"></image> 
+<image src="./img/star36_on@3x.png"></image> 
+</a>
+</li>
+<li>
+<span>服务态度</span>
+<a>
+<image src="./img/star36_on@3x.png"></image> 
+<image src="./img/star36_on@3x.png"></image> 
+<image src="./img/star36_on@3x.png"></image> 
+<image src="./img/star36_on@3x.png"></image> 
+</a>
+</li>
+<li>
+<span> 送达时间</span>
+<a>44分钟</a>
+</li>
+</ul>
+</view>
+<view class="p_3">
+<input type="text" value="全部"></input>
+<input type="text" value="满意"></input>
+<input type="text" value="不满意"></input>
+</view>
+<view class="p_4">
+
+
+
 
 
 
 
 </view>
- 
+</view>
+ <view class="foot">
+   <image src="./img/c.png"/><span>￥0</span> 
+<a>另需配送费￥4元</a>
+   <t>￥20元起送</t>
+</view>
 
 
 

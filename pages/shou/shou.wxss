@@ -1,4 +1,7 @@
-
+view{
+  margin: 0;
+  padding: 0;
+}
 .isRuleShow {
   display: block;
 }
@@ -307,21 +310,19 @@ background-color: white;
    .foot{
      width: 100%;
      height: 116rpx;
-     margin-top: 865rpx;
+     margin-top:360rpx;
      background-color: #141d27;
    }
-   .foot image{
-     width: 116rpx;
-     height: 116rpx;
-     margin-left: -160rpx
+   .foot  image{
+          width: 100rpx;
+     height: 100rpx;
+        margin-left:-160rpx;
    }
    .foot span{
-     width: 100rpx;
-     height: 116rpx;
      font-size: 32rpx;
-   color: rgba(255, 255, 255,0.4);
-    position: relative;top:-50rpx;
-     border-right:1rpx solid rgba(255, 255, 255,0.1);
+     color: rgba(255, 255, 255,0.4);
+    position: relative;top:-50rpx;left: -20rpx;
+    
      font-weight: 700rpx;
    }
    .foot a{
@@ -340,11 +341,75 @@ background-color: white;
    }
    .tab1{
      width: 100%;
-     height: 900rpx;
+     height: 500rpx;
      border: 1rpx solid rgba(255, 255, 255,0.1);
    }
    .tab2{
       width: 100%;
-     height: 900rpx;
-     border: 1rpx solid red;
+     height: 500rpx;
+   
    }
+   .p_1{
+     width: 275rpx;
+     height: 260rpx;
+ 
+   }
+   .p_1 view{
+     position: relative;top:    36rpx;
+     margin: 0 auto;
+     width: 200rpx;
+     height: 160rpx;
+    
+
+     text-align: center
+   }
+   .p_1 view a{
+     font-size: 48rpx;
+    color: rgb(265,153, 0);
+    display: block;
+     
+   }
+   .p_1 view p{
+     font-size: 24rpx;
+     color: black;
+
+   }
+   .p_1 view span{
+     font-size: 20rpx;
+     color: gray;
+     display: block;
+   }
+   .p_2{
+     width: 474rpx;
+     height: 260rpx;
+   
+    position: relative;       left:280rpx;top:-260rpx;
+   }
+   .p_2 ul li span{
+    font-size: 40rpx;
+    margin: 5rpx;
+   }
+   .p_2 ul li a image{
+     width: 50rpx;
+     height: 50rpx;
+     margin: 10rpx;
+   }
+   .p_2 ul li a{
+     color:gray;
+     margin: 10rpx;
+   }
+   .p_3{
+     width: 100%;
+     height: 100rpx;
+     margin-top: -250rpx;
+   }
+   .p_3 input {
+     width: 80rpx;
+     height: 50rpx;
+     font-size: 24rpx;
+     float: left;
+      margin: 20rpx;
+   }
+    .p_3 input :hover{
+      background-color: palegreen;
+    }
