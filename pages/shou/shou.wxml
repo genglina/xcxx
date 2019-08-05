@@ -152,6 +152,69 @@
 <input type="text" value="不满意"></input>
 </view>
 <view class="p_4">
+<dl>
+<dt><image src="./img/2.png"></image> 
+<span>聚***家</span>
+<div>
+<image src="./img/star36_on@3x.png"></image> 
+<image src="./img/star36_on@3x.png"></image> 
+<image src="./img/star36_on@3x.png"></image> 
+<image src="./img/star36_on@3x.png"></image> 
+</div>
+ </dt>
+<dd>
+<p>油条凉了，而且没有酱。75分中送到。很慢。送餐员态度不错，但是笔记好晚</p>
+<ul>
+<li>
+大王香菇卤
+</li>
+<li>
+大王香菇卤
+</li>
+<li>
+大王香菇卤
+</li>
+</ul>
+</dd>
+</dl>
+<dl>
+<dt>
+<image src="./img/2.png"></image>
+<span>谭***0</span>
+<div>
+<image src="./img/star36_on@3x.png"></image> 
+<image src="./img/star36_on@3x.png"></image> 
+<image src="./img/star36_on@3x.png"></image> 
+<image src="./img/star36_on@3x.png"></image> 
+</div>
+</dt>
+<dd>
+<p>这次太慢了，下次希望能直接和客户沟通而不是我一次次的打电话问，但快递师傅态度很好 </p>
+<ul>
+<li>
+大王香菇卤
+</li>
+</ul>
+</dd>
+
+</dl>
+<dl>
+<dt>
+<image src="./img/2.png"></image>
+<span>矶*****</span>
+<div>
+<image src="./img/star36_on@3x.png"></image> 
+<image src="./img/star48_off@2x.png"></image> 
+<image src="./img/star48_off@2x.png"></image> 
+<image src="./img/star48_off@2x.png"></image> 
+<image src="./img/star48_off@2x.png"></image> 
+</div>
+</dt>
+<dd>
+<p>我要求18点45送到，结果提前45分钟送到，家里没人 </p>
+</dd>
+</dl>
+
 
 
 
