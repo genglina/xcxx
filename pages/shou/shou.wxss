@@ -309,8 +309,8 @@ background-color: white;
    }
    .foot{
      width: 100%;
-     height: 116rpx;
-     margin-top:360rpx;
+     height:116rpx;
+     margin-top:350rpx;
      background-color: #141d27;
    }
    .foot  image{
@@ -462,4 +462,158 @@ background-color: white;
   font-size: 24rpx;
   color: gray;
   margin: 20rpx;
+}
+.s_1{
+  width: 100%;
+  height: 150rpx;
+  margin-left: 36rpx;
+ border-bottom:1rpx solid gray;
+}
+.s_1 h1{
+  font-size: 28rpx;
+  font-weight: 700;
+}
+.s_1 div {
+width: 100%;
+height: 25rpx;
+display: block;
+margin-top: 16rpx;
+}
+.s_1 div  image{
+  width: 50rpx;
+  height: 50rpx;
+
+}
+.s_1 div view{
+  font-size: 20rpx;
+position: relative;left: 250rpx;top: -50rpx;
+
+color: rgb(77,85,93);
+}
+.s_2{
+  width: 100%;
+  height: 200rpx;
+ 
+  margin-top: 20rpx;
+margin: 5rpx;
+}
+.s_21{
+  width: 245rpx;
+  height: 200rpx;
+float: left;
+border-right:1rpx solid gainsboro; 
+}
+.s_22{
+   width: 245rpx;
+  height: 200rpx;
+ border-right:1rpx solid gainsboro; 
+   float: left;
+}
+.s_23{
+   width: 245rpx;
+  height: 200rpx;
+   float: left;
+}
+.s_21 h1{
+    text-align: center;
+    display: block;
+margin-top: 50rpx; 
+color: rgb(147, 153, 159);
+}
+.s_21 span{
+font-size: 48rpx;
+margin-left: 50rpx;
+}
+.s_22 h1{
+  text-align: center;
+    display: block;
+margin-top: 50rpx; 
+color: rgb(147, 153, 159);
+}
+.s_22 span{
+  font-size: 48rpx;
+margin-left: 50rpx;
+}
+.s_23 h1{
+  text-align: center;
+    display: block;
+margin-top: 50rpx; 
+color: rgb(147, 153, 159);
+}
+.s_23 span{
+font-size: 48rpx;
+margin-left: 50rpx;
+}
+.s_3{
+  width: 100%;
+  height: 500rpx;
+  margin-top: 25rpx;
+}
+.s_3 h1{
+  display: block;
+}
+.s_3 span{
+font-size: 24rpx;
+font-weight: 200rpx;
+color: rgb(240,20,20);
+
+}
+.s_4{
+  width: 100%;
+  height: 500rpx;
+  margin-top: -250rpx;
+}
+.s_4 ul {
+  width: 100%;
+  height: 500rpx;
+}
+.s_4 ul li{
+  width: 100%;
+  height: 50rpx;
+  margin: 20rpx;
+  display: block;
+}
+.s_4 ul li image{
+  width: 50rpx;
+  height: 50rpx;
+}
+.s_4 ul li span{
+  font-size: 24rpx;
+}
+.s_5{
+  width: 100%;
+  height: 200rpx;
+}
+.s_5 dl {
+  width: 100%;
+  height: 200rpx;
+}
+.s_5 dl dt{
+    width: 100%;
+  height: 50rpx;
+  font-size: 24rpx;
+  display: block;
+  font-weight: 700;
+}
+.s_5 dl dd image{
+width: 240rpx;
+height: 180rpx;
+margin: 5rpx;
+}
+.s_6{
+  width: 100%;
+  height:90rpx;
+}
+.s_6 dl dt{
+   width: 100%;
+  height: 50rpx;
+  font-size: 24rpx;
+  display: block;
+  font-weight: 700;
+  margin-top: 30rpx;
+}
+.s_6 dl dd span{
+  display: block;
+  font-size: 24rpx;
+  color: rgb(7,17,27);
 }
