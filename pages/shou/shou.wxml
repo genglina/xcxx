@@ -1,5 +1,5 @@
 
- <!-- <view class="float {{isRuleTrue?'isRuleShow':'isRuleHide'}}">
+  <view class="float {{isRuleTrue?'isRuleShow':'isRuleHide'}}">
   <view class='floatContent'>
    <view class="hr">
    <h1>粥品香坊（大运村）</h1>
@@ -112,7 +112,7 @@
 </view>
  
 </view>
-<!-- 
+
 <view class="tab2" hidden="{{menuTapCurrent!='1'}}">
 
 <view class="p_1">
@@ -318,7 +318,7 @@
 <a>另需配送费￥4元</a>
    <t>￥20元起送</t>
 </view>
- -->
+
 
 
 
