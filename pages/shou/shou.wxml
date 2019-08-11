@@ -1,5 +1,5 @@
 
- <view class="float {{isRuleTrue?'isRuleShow':'isRuleHide'}}">
+ <!-- <view class="float {{isRuleTrue?'isRuleShow':'isRuleHide'}}">
   <view class='floatContent'>
    <view class="hr">
    <h1>粥品香坊（大运村）</h1>
@@ -112,9 +112,9 @@
 </view>
  
 </view>
-<!-- 评价页 -->
+<!-- 
 <view class="tab2" hidden="{{menuTapCurrent!='1'}}">
-<!-- 评分 -->
+
 <view class="p_1">
 <view>
 <a>3.9</a>
@@ -122,7 +122,7 @@
 <span>高于周家商家69.2%</span>
 </view>
 </view>
-<!-- 服务 -->
+
 <view class="p_2">
 <ul>
 <li>
@@ -154,7 +154,7 @@
 <input type="text" value="满意"></input>
 <input type="text" value="不满意"></input>
 </view>
-<!-- 评价 -->
+
 <view class="p_4">
 <dl>
 <dt><image src="./img/2.png"></image> 
@@ -219,7 +219,7 @@
 </dl>
 </view>
 </view>
-<!-- 商家页 -->
+
 <view class="tab3" hidden="{{menuTapCurrent!='2'}}">
 <view class="s_1">
 <h1> 粥品香坊（大运村）</h1>
@@ -318,7 +318,7 @@
 <a>另需配送费￥4元</a>
    <t>￥20元起送</t>
 </view>
-
+ -->
 
 
 
